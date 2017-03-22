@@ -1,0 +1,36 @@
+{
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/WeideMo/revm-path/issues"
+  },
+  "dependencies": {
+    "modify-filename": "^1.0.0"
+  },
+  "description": "Create a revved file path appending the md5 hash string",
+  "devDependencies": {
+    "ava": "0.0.4"
+  },  
+  "main":"index.js",
+  "homepage": "https://github.com/WeideMo/revm-path",
+  "keywords": [
+    "rev",
+    "revving",
+    "web",
+    "file",
+    "name",
+    "filename",
+    "path",
+    "cache",
+    "caching"
+  ],    
+  "name": "revm-path",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeideMo/revm-path.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "version": "1.0.1"
+}
